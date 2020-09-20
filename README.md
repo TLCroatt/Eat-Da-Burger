@@ -8,21 +8,16 @@ This app allows you to chose a burger from the list, add a burger, devour a burg
 ---
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Links](#links)
+[Installation](#installation)\
+[Usage](#usage)\
+[License](#license)\
+[Contributing](#contributing)\
+[Links](#links)\
 
 ---
 
 ## Installation
 Install required packages through the command line ```npm i```. Run ```node server.js```, then open in the browser.
-
----
-
-## Usage
-Tarantula web-cam
 
 ---
 
@@ -33,11 +28,11 @@ Copyright (c) [2020] [Trisha Croatt]
 ---
 
 ## Contributing
-javascript/
-express/
-express-handlebars/
-node.js/
-mysql/
+javascript\
+express\
+express-handlebars\
+node.js\
+mysql\
 
 
 ---
