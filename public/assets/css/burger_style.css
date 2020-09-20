@@ -1,12 +1,12 @@
 body {
     box-sizing: border-box;
-    background-image: url("/public/assets/img/burger.jpg");
 }
+
 
 .jumbotron {
     background-image: url("https://wallpapercave.com/wp/wp2186059.jpg");
     background-color: #cccccc;
-    height: 500px;
+    height: 400px;
     color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
