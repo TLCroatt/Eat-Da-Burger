@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+        <link rel="stylesheet" href="/public/assets/css/burger_style.css" type="text/css" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+		<title>Eat-Da-Burger!</title>
+		<script src="https://code.jquery.com/jquery.js"></script>
+		<script src="/assets/js/burger.js"></script>
+	</head>
+	<body>
+        <div class="container">
+		<div class="jumbotron">
+            <div class="container">
+              <h1 class="display-4">Eat-Da-Burger!</h1>
+            </div>
+          </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4" id="burgers">
+                    <h2>Eat Dem Burgers!</h2>
+                    <ul class="list-group">
+                        <li class="list-group-item">Cras justo odio</li>
+                        <li class="list-group-item">Dapibus ac facilisis in</li>
+                        <li class="list-group-item">Morbi leo risus</li>
+                        <li class="list-group-item">Porta ac consectetur ac</li>
+                        <li class="list-group-item">Vestibulum at eros</li>
+                      </ul>
+                </div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4" id="devoured">
+                    <h2>Devoured Burgers!</h2>
+                    <ul class="list-group">
+                        <li class="list-group-item">Cras justo odio</li>
+                        <li class="list-group-item">Dapibus ac facilisis in</li>
+                        <li class="list-group-item">Morbi leo risus</li>
+                        <li class="list-group-item">Porta ac consectetur ac</li>
+                        <li class="list-group-item">Vestibulum at eros</li>
+                      </ul>
+                </div>
+            </div>
+        
+
+            <div class="row">
+                <div class="col-md-4" id="addBurger">
+    
+                    <h2>Add A Burger!</h2>
+    
+                    <form class="create-update-form" action="/" method="POST">
+    
+                     <div class="form-group">
+                        <p>Add a burger you want to devour!</p>
+                        <input type="text" id="ca" name="burger_name">
+                    </div>
+                  
+                    <button class="btn-primary" type="submit"> Order <i class="fas fa-hamburger"></i></button>
+                    </form>
+    
+                </div>
+            </div> 
+        </div>   
+    </div>
+	</body>
+</html>
