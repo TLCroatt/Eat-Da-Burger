@@ -14,7 +14,7 @@ This app allows you to chose a burger from the list, add a burger, devour a burg
 [Usage](#usage)\
 [License](#license)\
 [Contributing](#contributing)\
-[Links](#links)\
+[Links](#links)
 
 ---
 
@@ -34,13 +34,13 @@ javascript\
 express\
 express-handlebars\
 node.js\
-mysql\
+mysql
 
 
 ---
 
 ## Links
 
-
-
+[Git Hup Repository](https://github.com/TLCroatt/Eat-Da-Burger)
+[Heroku Deployed App]()
   
