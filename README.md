@@ -3,10 +3,9 @@
 ![badge](https://img.shields.io/badge/license-MIT-green)
 
 A steaming hot serving of homemade ORM, ready to order!
-This app allows you to chose a burger from the list, add a burger, devour a burger (digitally, sorry!), and delete burgers. It uses a MYSQL database and an ORM based on the MVC model. 
+This app allows you to chose a burger from the list, add a burger, devour a burger (digitally, sorry!). It uses a MYSQL database and an ORM based on the MVC model. 
 
-<img width="1278" alt="Screen Shot 2020-09-20 at 3 43 28 PM" src="https://user-images.githubusercontent.com/66500773/93723313-d658e580-fb5a-11ea-9558-13273961fc2a.png">
-
+<img width="1506" alt="EatDaBurger" src="https://user-images.githubusercontent.com/66500773/93964874-f1278780-fd1d-11ea-9e25-c6e3cf633ed1.png">
 ---
 
 ## Table of Contents
