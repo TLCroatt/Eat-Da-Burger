@@ -40,6 +40,6 @@ mysql
 
 ## Links
 
-[Git Hup Repository](https://github.com/TLCroatt/Eat-Da-Burger)
+[Git HuB Repository](https://github.com/TLCroatt/Eat-Da-Burger)\
 [Heroku Deployed App]()
   
